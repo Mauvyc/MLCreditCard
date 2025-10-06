@@ -97,13 +97,9 @@ jupyter notebook creditcard.ipynb
 
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los cambios propuestos.
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
 ## 🤝 Contacto
 
 - GitHub: [@Mauvyc](https://github.com/Mauvyc)
 
----
-⭐ Si encuentras útil este proyecto, ¡no olvides darle una estrella en GitHub!
+
